@@ -30,14 +30,14 @@
         <!-- Background image -->
     </header>
     <div class="container">
-        <h1 class="m-4"> EDITS </h1>
+        <h1 class="m-4"> EDIT the Blog </h1>
         <form action="/blog/edit/<%= blog.id %>" method='POST'>
             <div class="form-group m-4">
                 <label for="title">Title</label>
                 <input required value="<%= blog.title %>" type="text" class='form-control' name='title' id="title">
 
-                <label for="description">Description</label>
-                <input required value="<%= blog.description %>" type="text" class='form-control' name='description' id="description">
+                <label for="categories">Categories</label>
+                <input required value="<%= blog.categories %>" type="text" class='form-control' name='categories' id="categories">
 
                 <label for="content">Content</label>
                 <textarea required type="text" class='form-control' name='content' id="content"><%= blog.content %></textarea>
