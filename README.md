@@ -1,4 +1,4 @@
-Created 'Blog Post App' using MEN stack MongoDB, Express and NodeJS PS - Install dependecies before running the app<br>
+Created 'Blog Post App' using MEN stack MongoDB, Express and NodeJS<br> PS - Install dependecies before running the app<br>
 
 <b>App workflow</b><br>
 1- App can be runned using command 'npm start',<br>
