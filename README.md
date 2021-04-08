@@ -14,4 +14,4 @@ All the functional objectives mentioned in the assignent are achieved.<br>
 1- Login/Logout feature can be added,<br>
 2- User can be added using the Login/logout features,<br>
 3- Search feature based on Title or Categories can be added,<br>
-3- While posting the Blog other types of files such as Image, Videos, links can be accepted as well.<br>
+4- While posting the Blog other types of files such as Image, Videos, links can be accepted as well.<br>
